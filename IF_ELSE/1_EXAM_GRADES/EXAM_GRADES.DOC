@@ -1,0 +1,35 @@
+PROBLEM:-
+        Get three exam grades from the user and compute the average of the grades. Output the average of the three exams.Together with the average ,also include a smiley face in the output if the average is greater than or equal to 70.
+
+ANALYSIS:-
+    INPUT:-
+        Input 3 subjects marks by user.
+        For example :- Mathematices - 75
+                       Science - 65
+                       Chemistry - 70
+    PROCESS:-
+        -> sum=sub1+sub2+sub3; (Here sub1 is Mathematices, sub2 is Science and sub3 is Chemistry. sum is summation of sub1,sub2 and sub3)
+        -> avg=sum/3;   (Here avg is Average and Average of formula is No.Of elements is divided by addition of all elements)
+    OUTPUT:-
+        -> if(avg >= 70)
+            Outcome will be smiley face(emoji).
+           else
+            The average of 3 subjects(exams)
+
+ALGORITHM:-
+    Step 1:- Start
+    Step 2:- Input 3 numbers
+    Step 3:- sum=0
+    Step 4:- sum=sub1+sub2+sub3
+    Step 5:- avg=sum/3
+    Step 6:- if(avg >= 70)
+                print smiley face
+            else
+                print average
+    Step 7:- End
+
+FLOWCHARTS:-
+    Flowchart available in EXAM_GRADES.drawio file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in ExamGrades.java file. Please check that.

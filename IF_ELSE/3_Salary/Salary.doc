@@ -1,0 +1,66 @@
+PROBLEM:-
+
+     Compute for the income given the monthly sales.
+    -----------------------------------------------------------------
+         Monthly Sales                          Income
+    -------------------------------         -------------------------
+    greater than or equal to $50000          $575 plus 16% of sales
+    ---------------------------------       -------------------------
+    less than $50000 but greater than        $550 plus 14% of Sales
+    or equal to $40000                  
+    ---------------------------------       -------------------------
+    less than $40000 but greater than        $525 plus 12% of Sales
+    or equal to $30000                  
+    ---------------------------------       -------------------------
+    less than $30000 but greater than        $500 plus 9% of Sales
+    or equal to $20000                  
+    ---------------------------------       -------------------------
+    less than $20000 but greater than        $450 plus 5% of Sales
+    or equal to $10000                  
+    ---------------------------------       -------------------------
+    less than $10000                         $400 plus 3% of Sales
+    ---------------------------------       -------------------------
+
+ANALYSIS:-
+
+    INPUT:- Input Monthly Sales from User.
+
+PROCESS:-
+
+    profit=(amount+(sales/percentage*100));
+    if sale greather than equal to 50000 then income will be $575 and 16% of sales.
+    else if sale greater then $40000 and less than equal to $50000 then income will be $550 and 14% of sales.
+    else if sale greater then $30000 and less than equal to $40000 then income will be $525 and 12% of sales.
+    else if sale greater then $20000 and less than equal to $30000 then income will be $500 and 9% of sales.
+    else if sale greater then $10000 and less than equal to $20000 then income will be $450 and 5% of sales.
+    else sale less than $10000 then income will be $400 and 3% of sales.
+
+OUTPUT:-
+
+    Print profit.
+
+ALGORITHM:-
+
+    STEP 1:- Start
+    STEP 2:- Input Sales amount from user.
+    STEP 3:- Intialization profit variable;
+    STEP 4:- if(sales>=50000)
+                profit=(575+(sales/100)*16);
+    STEP 5:- else if(sales >= 40000 && Sales < 50000)
+                        profit=(550+(sales/100)*14);
+    STEP 6:- else if(sales >= 30000 && Sales < 40000)
+                        profit=(525+(sales/100)*12);
+    STEP 7:- else if(sales >= 20000 && Sales < 30000)
+                        profit=(500+(sales/100)*9);
+    STEP 8:- else if(sales >= 10000 && Sales < 20000)
+                        profit=(450+(sales/100)*5);
+    STEP 5:- else(sales < 10000)
+                        profit=(400+(sales/100)*3);
+    STEP 6:- Print profit.
+    STEP 7:- End
+
+FLOWCHARTS:-
+    Flowchart available in  Salary.drawio file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in Salary.java file. Please check that.
