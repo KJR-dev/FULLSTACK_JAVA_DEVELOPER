@@ -1,0 +1,20 @@
+PROBLEM:-
+    WAP to perform arithmetic operation on two number based on users choice.
+
+ANALYSIS:-
+    INPUT:- Input two number and choice. Here choice is opertion, what kind of operation between two numbers you want.
+            (n=number and c=choice)
+
+    PROCESS:- User choice is + then addition of two numbers will be process.
+              User choice is - then subtraction of two numbers will be process.
+              User choice is * then multiplication of two numbers will be process.
+              User choice is / then division of two numbers will be process.
+              finally arithmetic process value assigned in r. Here r=result.
+    
+    OUTPUT:- Print r value.
+
+ALGORITHIM:- 
+    STEP 1:- Start
+    STEP 2:- Input two numbers
+    STEP 3:- Choose a Arthimethic operation
+    STEP 4:-  
