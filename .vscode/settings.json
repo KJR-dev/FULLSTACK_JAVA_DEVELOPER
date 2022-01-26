@@ -1,7 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "SWITCH_CASE/2. Vowel or Consonant",
-        "SWITCH_CASE/1. Arthmetic Operation",
-        "SWITCH_CASE/3. Number To Word"
+        "IF ELSE/2.Horoscope"
     ]
 }

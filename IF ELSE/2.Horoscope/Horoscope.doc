@@ -1,0 +1,84 @@
+PROBLEM :-
+    What is your horoscope ?
+    Write a program that will read in month and day (as numeric value).The program will return the equivalent zodiac sign.Use Switch Statement.
+         -------------------------------
+        | Aquarius    | jan 20 - Feb 18 |
+         -------------------------------
+        | Pisces      | Feb 19 - Mar 20 |
+         -------------------------------
+        | Aries       | Mar 21 - Apr 19 |
+         -------------------------------
+        | Taurus      | Apr 20 - May 20 |
+         -------------------------------
+        | Gemini      | May 21 - Jun 20 |
+         -------------------------------
+        | Cancer      | Jun 21 - Jul 22 |
+         -------------------------------
+        | Leo         | Jul 23 - Aug 22 |
+         -------------------------------
+        | Virgo       | Aug 23 - Sep 22 |
+         -------------------------------
+        | Libra       | sep 23 - oct 22 |
+         -------------------------------
+        | Scorpio     | oct 23 - Nov 21 |
+         -------------------------------
+        | Sagittarius | Nov 22 - Dec 21 |
+         -------------------------------
+        | Capricorn   | Dec 22 - jan 20 |
+         -------------------------------    
+    Sample Output:
+            Enter Month : 6
+            Enter Day   : 25
+            Zodiac sign for Jun 25 is  Cancer
+
+ANALYSIS :-
+    INPUT :- Enter year,month and day as number.
+
+    PROCESS :- First input year and check leap year or not. If input year is leap year then febuary days cover
+               from 1 to 29.
+               Day number must be 1 to 31, month month must be 1 to 12.
+               Input month number check every switch case and if monyh number match a switchcase then exicute that switchcase statements. Otherwise exicute default case.
+    OUTPUT :- print zodiac sign.
+
+ALGORITHIM :- 
+    STEP 1 :- Start
+    STEP 2 :- Initialize day(D),month(M) and year(Y) variable.
+    STEP 3 :- Read value for variable by input
+    STEP 4 :- Check year leap year or not.
+              If year number is leap year then febuary day cover from 1 to 29.
+              Then check month number is even days varies 1 to 30 Otherwise 1 to 31.
+              Above 3 step complete zodiac will be print below instruction
+               -------------------------------
+               -------------------------------
+              | Pisces      | Feb 19 - Mar 20 |
+               -------------------------------
+              | Aries       | Mar 21 - Apr 19 |
+               -------------------------------
+              | Aquarius    | jan 20 - Feb 18 |
+              | Taurus      | Apr 20 - May 20 |
+               -------------------------------
+              | Gemini      | May 21 - Jun 20 |
+               -------------------------------
+              | Cancer      | Jun 21 - Jul 22 |
+               -------------------------------
+              | Leo         | Jul 23 - Aug 22 |
+               -------------------------------
+              | Virgo       | Aug 23 - Sep 22 |
+               -------------------------------
+              | Libra       | sep 23 - oct 22 |
+               -------------------------------
+              | Scorpio     | oct 23 - Nov 21 |
+               -------------------------------
+              | Sagittarius | Nov 22 - Dec 21 |
+               -------------------------------
+              | Capricorn   | Dec 22 - jan 20 |
+               -------------------------------  
+
+OUTPUT :- print zodiac 
+
+FLOWCHARTS:-
+    Flowchart available in Horoscope.png file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in Horoscope.java file. Please check that.    
+

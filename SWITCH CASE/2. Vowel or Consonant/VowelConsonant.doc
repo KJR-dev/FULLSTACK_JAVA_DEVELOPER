@@ -1,0 +1,34 @@
+PROBLEM :-
+    WAP enter a character and check it is vowel or consonant.
+
+ANALYSIS :-
+
+    INPUT :-
+        Input a character by USER.
+    
+    PROCESS :-
+        User input character is check with every vowel alphabet character. If user input character matched with vowel case then print user input character is vowel, otherwise consonant.
+
+    OUTPUT :-
+        Print vowel/consonant. (Depend on condition) 
+    
+ALGORITHIM :-
+    STEP 1 :- Start
+    STEP 2 :- User input is A then vowel print.
+              User input is E then vowel print.
+              User input is I then vowel print.
+              User input is O then vowel print.
+              User input is U then vowel print.
+              User input is a then vowel print.
+              User input is e then vowel print.
+              User input is i then vowel print.
+              User input is o then vowel print.
+              User input is u then vowel print.
+    STEP 3 :- If user input does not match any case then default statement exicute and print consonant print.
+    STEP 4 :- End
+
+FLOWCHARTS:-
+    Flowchart available in Vowelconsonant.png file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in Vowel_Consonant.java file. Please check that.

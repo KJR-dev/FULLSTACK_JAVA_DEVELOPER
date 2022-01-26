@@ -9,6 +9,7 @@ ANALYSIS:-
               User choice is - then subtraction of two numbers will be process.
               User choice is * then multiplication of two numbers will be process.
               User choice is / then division of two numbers will be process.
+              User choice is % then remainder of two numbers will be process.
               finally arithmetic process value assigned in r. Here r=result.
     
     OUTPUT:- Print r value.
@@ -17,4 +18,14 @@ ALGORITHIM:-
     STEP 1:- Start
     STEP 2:- Input two numbers
     STEP 3:- Choose a Arthimethic operation
-    STEP 4:-  
+    STEP 4:- Arthimetic operation compare with every CASE. Which Arthimethic operation match with CASE that CASE statement exicute.
+
+    STEP 5:- If Arthimethic operation does not match any CASE statement then program go to default statement and exicute default statement.
+
+    STEP 6:- End
+
+FLOWCHARTS:-
+    Flowchart available in Arthimetic.png file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in Arthimetic.java file. Please check that.

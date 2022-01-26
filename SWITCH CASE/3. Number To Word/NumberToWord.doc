@@ -1,0 +1,29 @@
+PROBLEM :- 
+    Enter a number and print in word.
+
+ANALYSIS :- 
+    INPUT :-
+        Input a number from User.
+
+    PROCESS :-
+        First of all please input a number from user. That number stored in a string. Check every index character with case statements. if which index character is match with case statement then print matching case statements. That it's all.
+    
+    OUTPUT :-
+        print number into word.
+    
+ALGORITHIM :-
+    STEP 1:- Start
+    STEP 2:- Declear a string variable s and Integer variable i number.
+    STEP 3:- Read value of number
+    STEP 4:- Initialize variables n=0
+    STEP 5:- i++ till equal to length of number.
+       5.1:-    if s[n]==case ' '.
+       5.2:-    print case statement.
+    STEP 6:- End
+
+
+FLOWCHARTS:-
+    Flowchart available in Numbertoword.png file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in NumberToWord.java file. Please check that.    
