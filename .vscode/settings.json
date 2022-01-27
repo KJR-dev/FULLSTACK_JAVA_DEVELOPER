@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "IF ELSE/2.Horoscope"
+        "IF ELSE/4.PositiveNegativeNunber",
+        "IF ELSE/2.Horoscope",
+        "IF ELSE/5.QuadraticEquations"
     ]
 }

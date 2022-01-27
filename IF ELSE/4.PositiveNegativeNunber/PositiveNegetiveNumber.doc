@@ -1,0 +1,23 @@
+PROBLEM :- Write a Java program to get a number from the user and print whether it is positive or negative.
+
+ANALYSIS :- 
+    INPUT :- Input a number by user.
+
+    PROCESS :- Check if input number is greater than zero then it is positive number otherwise negative
+               number.   
+    
+    OUTPUT :- Print Positive/Negative.
+
+ALGORITHM :- 
+    STEP 1 :- Start
+    STEP 2 :- Initialiazation a variable num.
+    STEP 3 :- Read value for num.
+    STEP 4 :- if num > 0 then print statement is it is positive number.
+              else print statement is it is negative number.
+    STEP 5 :- End
+
+FLOWCHARTS:-
+    Flowchart available in PositiveNegativeNunber.drawio file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in PositiveNegativeNunber.java file. Please check that.

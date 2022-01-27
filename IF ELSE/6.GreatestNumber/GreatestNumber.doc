@@ -1,0 +1,32 @@
+PROBLEM :- Take three numbers from the user and print the greatest number. 
+           Input the 1st number: 25
+           Input the 2nd number: 78
+           Input the 3rd number: 87
+           Expected Output :
+           The greatest: 87
+
+ANALYSIS :- 
+    INPUT :- Input 3 no.s by user. i.e a,b and c.
+
+    PROCESS :- First a compair with b and c. If a is greatest no. of b and c then a is printed. if a
+               is smallest no. then b is compair with c, here if b is greatest no. then b is printed
+               otherwise c is printed.
+
+    OUTPUT :- print greastest number.
+
+ALGORITHM :- 
+    STEP 1 :- Start
+    STEP 2 :- input a,b and c
+    STEP 3 :- if(a>b && a>c)
+                print a
+              else if(b>c)
+                print b
+              else
+                print c
+    STEP 4 :- End
+
+FLOWCHARTS:-
+    Flowchart available in GreatestNumber.drawio file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in GreatestNumber.java file. Please check that.

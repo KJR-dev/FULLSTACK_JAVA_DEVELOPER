@@ -1,0 +1,43 @@
+PROBLEM :- Write a Java program to get a number from the user and print whether it is positive or negative.
+            Input a: 1
+            Input b: 5
+            Input c: 1
+            Expected Output :
+            The roots are -0.20871215252208009 and -4.7912878474779195
+            
+ANALYSIS :- 
+    INPUT :- Input 3 double numbers from user. i.e. a,b and c.
+
+    PROCESS :- Initialiazation a res double variable. a,b and c use in Quadratic Equations. 
+               i.e double res = (b * b) - (4.0 * a * c);
+
+               if result is positive number it is the equation has varies two roots i.e. 
+               first is double res1=(-b + Math.pow(result, 0.5)) / (2.0 * a);
+               second is double res2=(-b - Math.pow(result, 0.5)) / (2.0 * a);
+
+               if result is equal to zero then the equation has root is double res = -b / (2.0 * a);
+
+               Otherwise The equation has no real roots.
+
+    OUTPUT :- print root/roots value.
+
+ALGORITHM :- 
+    STEP 1 :- Start
+    STEP 2 :- Initialiazation 6 double variables is a,b,c,res,res1 and res2.
+    STEP 3 :- res=(b * b) - (4.0 * a * c);
+    STEP 4 :- if (res > 0)
+                res1=(-b + Math.pow(result, 0.5)) / (2.0 * a);
+                res2=(-b - Math.pow(result, 0.5)) / (2.0 * a);
+                print res1 and res2.
+              else if (res==0)
+                res = -b / (2.0 * a);
+                print res.
+              else 
+                print statement is The equation has no real roots.
+    STEP 5 :- End
+
+FLOWCHARTS:-
+    Flowchart available in QuadraticEquations.drawio file. Please check that.
+
+IMPLEMENTATION:- 
+    Implementation available in QuadraticEquations.java file. Please check that.
