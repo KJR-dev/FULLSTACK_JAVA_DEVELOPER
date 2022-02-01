@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "IF ELSE/7.Weekday",
+        "IF ELSE/5.QuadraticEquations",
         "IF ELSE/4.PositiveNegativeNunber",
         "IF ELSE/2.Horoscope",
-        "IF ELSE/5.QuadraticEquations"
+        "FOR LOOP/4. Multiplication Table"
     ]
 }
