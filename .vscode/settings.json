@@ -1,9 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "IF ELSE/7.Weekday",
-        "IF ELSE/5.QuadraticEquations",
-        "IF ELSE/2.Horoscope",
-        "FOR LOOP/4. Multiplication Table",
-        "ARRAY/11. Reverse an array of integer values"
-    ]
+        "GeeksForGeeks/LEVEL 1/2. Find minimum and maximum element in an array"
+    ],
+    "java.project.outputPath": "Task\\3. Swapping between 2D array"
 }
