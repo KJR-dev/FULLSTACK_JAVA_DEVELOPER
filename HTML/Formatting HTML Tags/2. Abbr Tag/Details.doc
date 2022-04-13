@@ -1,0 +1,5 @@
+The abbr tag is used to define an abbreviation or an acronym like PHP, HTML, CSS, NASA, LOL etc. Using abbr tag to define abbreviations can be helpful for browsers and search engines to understand the content in a better way. The title attribute is used in abbr tag to define the abbreviation.
+
+The title attribute is used to define or explain the abbreviation. The acronym or abbreviation is written between the starting abbr tag and ending abbr tag. While it's full form is written inside title attribute.
+
+The full form or explanation of any acronym written inside title attribute serve as tooltip and is displayed when the cursor is hovered over the abbreviation.

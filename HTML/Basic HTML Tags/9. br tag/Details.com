@@ -1,0 +1,1 @@
+The br tag or line break tag is used for writing poems, lyrics and addresses as it can insert a line break after one verse or line. However usage of CSS is more preferable instead of br tag as it has no limitations.

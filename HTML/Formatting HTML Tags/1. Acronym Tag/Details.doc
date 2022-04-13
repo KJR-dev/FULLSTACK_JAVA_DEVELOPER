@@ -1,0 +1,5 @@
+Acronym Tag is like abbr tag. Acronym tag is used to define the abbreviation or acronym like HTML, CSS or PHP. It is not used anymore in HTML5. Abbr Tag is used in place of acronym tag.
+
+Hover over the word HTML and you will see it's abbreviation.
+
+The full form or explanation of any acronym written inside title attribute serve as tooltip and is displayed when the cursor is hovered over the abbreviation.

@@ -1,0 +1,1 @@
+The Doctype declaration is not an HTML Tag, It is used to tell the Browser about the version of HTML written on the web page. The Doctype tag is the first tag in HTML document you should write just before Html starting tag.
