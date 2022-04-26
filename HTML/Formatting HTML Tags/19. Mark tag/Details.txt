@@ -1,0 +1,2 @@
+Mark tag use for text highlight.
+HTML mark Tag defines the marked text. Most browsers will highlight the text inside the mark tag with yellow color but you can change this using CSS.

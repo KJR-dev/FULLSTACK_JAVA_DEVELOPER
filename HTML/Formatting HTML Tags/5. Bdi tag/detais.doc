@@ -1,0 +1,5 @@
+bdi stands for bi-directional isolate.
+it's use for text starting direction.
+Default setting is ltr.
+ltr stands for left to right.
+rtl stands for right to left.

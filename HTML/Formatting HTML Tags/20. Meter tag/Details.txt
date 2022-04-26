@@ -1,0 +1,1 @@
+HTML meter Tag defines a measurement scale with a specific range which measures data within this range. The HTML meter tag is also known as gauge.

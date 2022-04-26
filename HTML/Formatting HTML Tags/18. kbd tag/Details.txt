@@ -1,0 +1,5 @@
+HTML kbd Tag is used for the keyboard input or keyboard keys like Enter key, Ctrl key etc. Most browsers display the text written inside kbd tag in monospace font.
+
+Other than keyboard keys kbd tag is also used for other types of textual user input or voice input.
+
+HTML kbd Tag is an inline element.
