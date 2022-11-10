@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+}
+.qPanel{
+    margin:auto;
+    width:800px;
+    vertical-align: center;
+    margin:0 auto;
+    background-color: #79B96A ;
+    border: none ;
+    border-radius : 10px ;
+    padding: 20px ;
+    height: 370px ;
+    font-size: 16pt;
+}
+.ques{
+    font-size : 16pt;
+    font-weight: bold ;
+}
+.nxtBtn{
+    position: relative ;
+    right : 10px ;
+    float: right;
+    border:none ;
+    font-size: 18pt ;
+    background-color: #348322  ;
+    color: #ffffff ;
+    width: 80px ;
+    height: 35px ;
+}
+input[type='radio']{
+    width: 20px;
+    height: 20px;
+}
+div.line_h {
+    line-height: 1.8;
+  }

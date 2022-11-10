@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Student Registration Form</title>
+  </head>
+  <body>
+    <header>Student Registration Form</header>
+    <form class="Student_Registration_Form">
+      <!--Student Registration Form-->
+      <div class="StudentRegistrationFrom">
+        <!--First Name-->
+        <input
+          type="text"
+          name="FirstName"
+          id="FirstName"
+          placeholder="FirstName"
+        />
+
+        <!--Second Name-->
+        <input
+          type="text"
+          name="SecondName"
+          id="SecondName"
+          placeholder="SecondName"
+        />
+
+        <!--Registration Number-->
+        <div id="photo"></div>
+        <input type="text" name="RegdNo" id="Regd_No" placeholder="Regd No" />
+
+        <!--Department Name-->
+        <select name="Department Name" id="DepartmentName">
+          <option value="Department">Department</option>
+          <option value="Computer Science & Engineering">
+            Computer Science & Engineering
+          </option>
+          <option value="Medical Science">Medical Science</option>
+          <option value="Deploma">Deploma</option>
+          <option value="ITI">ITI</option>
+        </select>
+
+        <!--Course Name-->
+        <select name="Course Name" id="CourseName">
+          <option value="None">Course</option>
+          <option value="BCA">BCA</option>
+          <option value="BTECH">BTECH</option>
+          <option value="MCA">MCA</option>
+          <option value="MTECH">MTECH</option>
+        </select>
+
+        <label for="Address" id="address"
+          >Address
+          <address>
+            <input
+              type="text"
+              name="Address 1"
+              id="Address1"
+              placeholder="Address 1"
+            />
+            <input
+              type="text"
+              name="Address 2"
+              id="Address2"
+              placeholder="Address 2"
+            />
+            <input type="text" name="city" id="city" placeholder="City" />
+            <input type="text" name="State" id="State" placeholder="State" />
+            <input
+              type="text"
+              name="PinCode"
+              id="PinCode"
+              placeholder="Pin Code"
+            />
+            <input
+              type="text"
+              name="ContactNumber"
+              id="ContactNumber"
+              placeholder="Contact Number"
+            />
+          </address>
+          <input type="Email" name="Email" id="Email" placeholder="Email" />
+          <input
+            type="password"
+            name="Password"
+            id="Password"
+            placeholder="Password"
+          />
+          <input
+            type="ConfirmPassword"
+            name="ConfirmPassword"
+            id="ConfirmPassword"
+            placeholder="ConfirmPassword"
+          />
+          <br />
+          <input type="radio" name="Gender" id="Gender" />Male
+          <input type="radio" name="Gender" id="Gender" />Female
+        </label>
+      </div>
+    </form>
+    <input type="submit" value="SUBMIT" id="submit" />
+  </body>
+</html>

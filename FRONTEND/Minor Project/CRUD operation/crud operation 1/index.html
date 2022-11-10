@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CRUD operations using JSON in JavaScript</title>
+    <style>
+      #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      #customers td,
+      #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
+
+      #customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      #customers tr:hover {
+        background-color: #ddd;
+      }
+
+      #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #00a6ff;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CRUD operations using JSON in JavaScript</h1>
+    <br />
+    <table id="customers">
+      <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>MobileNumber</th>
+        <th>Email</th>
+        <th>Photo</th>
+      </tr>
+      <tbody id="datasection"></tbody>
+    </table>
+
+    <script type="text/javascript">
+      const users = [
+        {
+          FirstName: "Jitendra",
+          LastName: "Sahoo",
+          MobileNumber: "7978020151",
+          Email: "sahooj168@gmail.com",
+          Photo:
+            "https://ca.slack-edge.com/T0242PBJKJ9-U02SJMYCLBX-a0a75d12c1f0-512",
+        },
+        {
+          FirstName: "Ranjan",
+          LastName: "Ransingh",
+          MobileNumber: "9556591719",
+          Email: "ranjanku.ranjansingh@gmail.com",
+          Photo:
+            "https://ca.slack-edge.com/T0242PBJKJ9-U036WCDF7PH-2aa94debcb1b-512",
+        },
+        {
+          FirstName: "Satyabrata",
+          LastName: "Behera",
+          MobileNumber: "9123456567",
+          Email: "satya020rinku@gmail.com",
+          Photo:
+            "https://ca.slack-edge.com/T0242PBJKJ9-U02SF04U8SJ-d0a95db17770-512",
+        },
+        {
+          FirstName: "Pritish Kumar",
+          LastName: "Moharana",
+          MobileNumber: "8249056800",
+          Email: "pritishmoharana478@gmail.com",
+          Photo:
+            "https://ca.slack-edge.com/T0242PBJKJ9-U02S71PMV47-656ede749568-512",
+        },
+        {
+          FirstName: "Abhishek",
+          LastName: "Rath",
+          MobileNumber: "9123456567",
+          Email: "abhishekrath7@gmail.com",
+          Photo:
+            "https://ca.slack-edge.com/T0242PBJKJ9-U024JEKPMCH-d682ade7b51e-512",
+        },
+        {
+          FirstName: "Arpita",
+          LastName: "Biswal",
+          MobileNumber: "9123456567",
+          Email: "arpitabiswal9337@gmail.com",
+          Photo:
+            "https://ca.slack-edge.com/T0242PBJKJ9-U03C68HD25R-1354dd62651c-512",
+        }
+      ];
+      let data = "";
+      for (let i = 0; i < users.length; i++) {
+        data +=
+          "<tr><td>" +
+          users[i].FirstName +
+          "</td><td>" +
+          users[i].LastName +
+          "</td><td>" +
+          users[i].MobileNumber +
+          "</td><td>" +
+          users[i].Email +
+          '</td><td><img src="' +
+          users[i].Photo +
+          '" width="100px" height="100px"/></td></tr>';
+      }
+      datasection.innerHTML = data;
+    </script>
+  </body>
+</html>

@@ -1,0 +1,145 @@
+
+  .heading {
+    height: 100%;
+    width: 100%;
+    background-color: lightgreen;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+  }
+  .content {
+    height: 100%;
+    width: 100%;
+    background-color: lightcyan;
+    padding: 0.1rem;
+  }
+  #pi,
+  #textdep,
+  #address,
+  #qualification {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .photo {
+    height: 205px;
+    width: 190px;
+    background-color: wheat;
+    float: right;
+    margin: 10px;
+    text-align: center;
+  }
+  #fname,
+  #lname,
+  #regd_no,
+  #roll_no,
+  #email,
+  #mob,
+  #add_1,
+  #add_2 {
+    margin: 10px;
+    float: none;
+    width: 40%;
+    height: 2rem;
+    font-size: 20px;
+  }
+  #dep,
+  #sem {
+    margin: 10px;
+    float: none;
+    width: 40.4%;
+    height: 2rem;
+    font-size: 20px;
+  }
+  #city,
+  #state,
+  #pin {
+    margin: 10px;
+    float: none;
+    width: 31%;
+    height: 2rem;
+    font-size: 20px;
+  }
+  #qul,
+  #university_board,
+  #year,
+  #percentages_cgpa {
+    margin: 10px;
+    float: none;
+    width: 22.8%;
+    height: 2rem;
+    font-size: 20px;
+  }
+
+
+
+
+@media screen and (max-device-width: 480px){
+    .heading {
+        height: 100%;
+        width: 100%;
+        background-color: lightgreen;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: xx-large;
+      }
+      .content {
+        height: 100%;
+        width: 100%;
+        background-color: lightcyan;;
+        padding: 0.1rem;
+      }
+      #pi,
+      #textdep,
+      #address,
+      #qualification {
+        margin: 10px;
+        font-size: 20px;
+        font-weight: 500;
+      }
+      .photo {
+        height: 205px;
+        width: 190px;
+        background-color: wheat;
+        margin: 0 auto;
+        text-align: center;
+      }
+      #fname,
+      #lname,
+      #regd_no,
+      #roll_no,
+      #email,
+      #mob,
+      #add_1,
+      #add_2 {
+        float: none;
+        width: 98%;
+        height: 2rem;
+        font-size: 20px;
+      }
+      #dep,
+      #sem {
+        float: none;
+        width: 49.5%;
+        height: 2rem;
+        font-size: 20px;
+      }
+      #city,
+      #state,
+      #pin {
+        float: none;
+        width: 31%;
+        height: 2rem;
+        font-size: 20px;
+      }
+      #qul,
+      #university_board,
+      #year,
+      #percentages_cgpa {
+        float: none;
+        width: 22.8%;
+        height: 2rem;
+        font-size: 20px;
+      }
+  }
+

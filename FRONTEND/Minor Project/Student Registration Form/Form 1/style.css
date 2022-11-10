@@ -1,0 +1,99 @@
+header {
+  font-size: 40px;
+  text-align: center;
+}
+.StudentRegistrationFrom {
+  width: 100%;
+  height: 450px;
+  background-color: aqua;
+}
+#photo {
+  width: 200px;
+  height: 200px;
+  background-color: yellowgreen;
+  float: right;
+  margin: 20px 5px;
+}
+#FirstName {
+  margin: 20px 0px 5px 20px;
+  padding: 5px;
+  font-size: 25px;
+  width: 40%;
+  height: 30px;
+}
+#SecondName {
+  margin: 20px 10px 10px 0px;
+  padding: 5px;
+  font-size: 25px;
+  width: 40%;
+  height: 30px;
+}
+#Regd_No {
+  margin: 20px 0px 5px 20px;
+  padding: 5px;
+  font-size: 25px;
+  width: 40%;
+  height: 30px;
+}
+#DepartmentName {
+  margin: 20px 3px 10px 0px;
+  padding: 5px;
+  font-size: 25px;
+  width: 20%;
+  height: 40px;
+}
+#CourseName {
+  margin: 20px 0px 10px 0px;
+  padding: 5px;
+  font-size: 25px;
+  width: 20%;
+  height: 40px;
+}
+#address {
+  font-size: 30px;
+  margin: 20px 0px 0px 20px;
+}
+#Address1 {
+  margin: 20px 0px 5px 20px;
+  padding: 5px;
+  font-size: 25px;
+  width: 40%;
+  height: 30px;
+}
+#Address2 {
+  margin: 20px 10px 10px 0px;
+  padding: 5px;
+  font-size: 25px;
+  width: 40%;
+  height: 30px;
+}
+#city,
+#State,
+#PinCode,
+#ContactNumber {
+  margin: 20px 0px 10px 20px;
+  padding: 5px;
+  font-size: 25px;
+  width: 22%;
+  height: 30px;
+}
+#Email,
+#Password,
+#ConfirmPassword {
+  margin: 20px 0px 10px 20px;
+  padding: 5px;
+  font-size: 25px;
+  width: 30%;
+  height: 30px;
+}
+#Gender {
+  margin: 20px 0px 10px 20px;
+}
+#submit {
+  margin: 3% 0 0 45%;
+  font-size: 70px;
+  width: 190px;
+  font-size: 30px;
+  background-color: yellowgreen;
+  border-radius: 30px;
+}

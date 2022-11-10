@@ -1,0 +1,16 @@
+#edit_div1{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+}
+#edit_inner_div1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(240, 233, 233);
+    float: left;
+}
+#edit_button{
+float:inline-end;
+background-color: red;
+}

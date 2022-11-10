@@ -1,0 +1,30 @@
+[
+    {
+    "QUESTION": "Which type of JavaScript language is ___",
+    "OPITION1" : "Object-Oriented",
+    "OPITION2" : "Object-Based",
+    "OPITION3" : "Assembly-language",
+    "OPITION4" : "High-level"
+},
+{
+    "QUESTION": "Which one of the following also known as Conditional Expression:",
+    "OPITION1" : "Alternative to if-else",
+    "OPITION2" : "Switch statement",
+    "OPITION3" : "If-then-else statement",
+    "OPITION4" : "immediate if"
+},
+{
+    "QUESTION": "In JavaScript, what is a block of statement?",
+    "OPITION1" : "Conditional block",
+    "OPITION2" : "block that combines a number of statements into a single compound statement",
+    "OPITION3" : "both conditional block and a single statement",
+    "OPITION4" : "block that contains a single statement"
+},
+{
+    "QUESTION": "When interpreter encounters an empty statements, what it will do:",
+    "OPITION1" : "Shows a warning",
+    "OPITION2" : "Prompts to complete the statement",
+    "OPITION3" : "Throws an error",
+    "OPITION4" : "Ignores the statements"
+}
+]

@@ -1,0 +1,52 @@
+.simple_LogIn_form {
+  width: 500px;
+  height: 350px;
+  background-color: whitesmoke;
+  top: 50%;
+  left: 50%;
+  margin: auto;
+}
+.login_heading {
+  text-align: center;
+  padding-top: 30px;
+}
+#user_name {
+  height: 10%;
+  width: 90%;
+  margin: 15px;
+  font-size: 20px;
+  padding: 5px;
+  border: 0.2px solid gray;
+  border-radius: 4px;
+}
+#Password {
+  height: 10%;
+  width: 90%;
+  margin: 15px;
+  font-size: 20px;
+  padding: 5px;
+  border: 0.2px solid gray;
+  border-radius: 4px;
+}
+#login {
+  height: 35px;
+  width: 93%;
+  margin: 15px;
+  font-size: 20px;
+  background-color: #0d91fd;
+  border: 0.2px solid gray;
+  border-radius: 4px;
+}
+#Remember_Me {
+  margin-left: 15px;
+}
+#forget_password {
+  margin-left: 48%;
+}
+#CreateAccount {
+  font-size: 20px;
+  text-align: center;
+}
+.p{
+    text-align: center;
+}

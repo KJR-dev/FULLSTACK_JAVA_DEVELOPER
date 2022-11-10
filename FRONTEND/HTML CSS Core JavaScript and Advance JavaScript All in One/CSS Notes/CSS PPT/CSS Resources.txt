@@ -1,0 +1,16 @@
+MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
+
+W3school
+https://www.w3schools.com/css/default.asp
+
+All CSS Properties 
+https://meiert.com/en/indices/css-properties/
+
+A random collection of CSS examples and some help in using them.
+https://www.w3.org/Style/Examples/007/
+
+W3
+https://www.w3.org/Style/CSS/learning
+
+
