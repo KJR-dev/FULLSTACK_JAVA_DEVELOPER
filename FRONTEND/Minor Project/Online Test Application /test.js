@@ -72,29 +72,7 @@ $(document).on("click", ".prevBtn", function () {
 function question_bind(i) {
   if (i < QuestionData.length && i >= 0) {
     var j=0;
-    document.getElementById("t1").innerHTML =
-      "<h1>Q." +
-      (i + 1) +
-      " " +
-      QuestionData[i].QUESTION +
-      "</h1><div class='line_h'><input type='radio' id='opt1' name='options' value='" +
-      QuestionData[i].OPITION[j] +
-      "'><span id='optt1'>" +
-      QuestionData[i].OPITION[j++] +
-      "</span></div></h1><div class='line_h'><input type='radio' id='opt2' name='options' value='" +
-      QuestionData[i].OPITION[j] +
-      "'><span id='optt2'>" +
-      QuestionData[i].OPITION[j++] +
-      "</span></div></h1><div class='line_h'><input type='radio' id='opt3' name='options' value='" +
-      QuestionData[i].OPITION[j] +
-      "'><span id='optt3'>" +
-      QuestionData[i].OPITION[j++] +
-      "</span></div></h1><div class='line_h'><input type='radio' id='opt4' name='options' value='" +
-      QuestionData[i].OPITION[j] +
-      "'><span id='optt3'>" +
-      QuestionData[i].OPITION[j++] +
-      "</span></div>";
-  }
+   <input type="text" name="" id="LeftAsideFilterOrignCity" placeholder="Enyer Orign City"/>
   $("#opt1,#opt2,#opt3,#opt4").change(function () {
     var Result = 0;
     //alert($(this).val() == AnswerData[i].ANSWER);
