@@ -1,3 +1,6 @@
+// Define a class Time to represent Time (like 3 hr 45 min 20 sec). Declare appropriate number of instance member
+// variables and also define instance member functions to set values for time and display values of time.
+
 package Time;
 
 public class Time{

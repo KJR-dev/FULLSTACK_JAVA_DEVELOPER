@@ -1,3 +1,6 @@
+// Define a class Distance with fields km, m, cm. Provide methods to set distance and display distance. Also define a
+// member function to add two distances.
+
 package Distance;
 
 public class Distance{

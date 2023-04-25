@@ -1,3 +1,5 @@
+// Define a class Employee with properties empld, name, salary and define setters and getters.
+
 package Employee;
 public class Employee{
     private int empId,salary;

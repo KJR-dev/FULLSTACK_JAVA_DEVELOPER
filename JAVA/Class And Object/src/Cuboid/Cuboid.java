@@ -1,3 +1,5 @@
+// Define a class Cuboid with member variables to store length of its sides. Also define setters, getters and member
+// functions to calculate volume and surface area of cuboid.
 package Cuboid;
 
 public class Cuboid{

@@ -1,3 +1,5 @@
+//Define a class Contact with fields id, firstName, lastName, mobileNo and emailld.Provide setters and getters.
+
 package Contact;
 public class Contact{
     private int id,mob;

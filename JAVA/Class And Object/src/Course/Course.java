@@ -1,3 +1,5 @@
+// Define a class Course with fields courseld, course Name, duration, fee. Provide setter and getters.
+
 package Course;
 
 public class Course{

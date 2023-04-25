@@ -1,3 +1,5 @@
+// Define a class Book with member variables bookld, title, price and author. Provide setters and getters.
+
 package Book;
 public class Book{
     private int bookId,price;
