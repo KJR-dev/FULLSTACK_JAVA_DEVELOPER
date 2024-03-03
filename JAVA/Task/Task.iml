@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1. Input and output operation in 3x3 jagged array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. Largest element in 3x4 array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Two 2D matrix addition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Two 2D matrix multiplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6. 2D Transpose matrix" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

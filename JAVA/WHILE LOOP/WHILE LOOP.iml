@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1. CUBE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. Multiplication Table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. N terms of odd natural number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. Count Number" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

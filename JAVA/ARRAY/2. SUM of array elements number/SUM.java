@@ -1,7 +1,5 @@
 //Write a Java program to sum values of an array. 
-
 import java.util.*;
-
 public class SUM {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

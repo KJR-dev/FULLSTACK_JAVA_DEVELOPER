@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1. Natural Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10. Pattern diamond" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. Print inverted right angle triangle Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12. Print inverted right angle triangle @ Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. Sum of first nth natural number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. Sum and Average of 5 numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. Multiplication Table" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. N terms of odd natural number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6. Pattern like right angle triangle with a number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. Pattern like right angle triangle with a number which will repeat a number in a row" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8. Pattern like right angle triangle with number increased by 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. Floyd's Triangle" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

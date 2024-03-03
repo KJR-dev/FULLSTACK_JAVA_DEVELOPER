@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/2. Find minimum and maximum element in an array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/3. Write a program to reverse the array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/4. Sort the given array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/5. Kth largest and Kth smallest number in an array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/6. Occurrence of an integer in the array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/7. Sort the array of 0s, 1s, and 2s" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/8. Subarray with given Sum" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

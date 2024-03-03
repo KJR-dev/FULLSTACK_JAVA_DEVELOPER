@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAY/ARRAY.iml" filepath="$PROJECT_DIR$/ARRAY/ARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FOR LOOP/FOR LOOP.iml" filepath="$PROJECT_DIR$/FOR LOOP/FOR LOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FULLSTACK_JAVA_DEVELOPER.iml" filepath="$PROJECT_DIR$/FULLSTACK_JAVA_DEVELOPER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeeksForGeeks/GeeksForGeeks.iml" filepath="$PROJECT_DIR$/GeeksForGeeks/GeeksForGeeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IF ELSE/IF ELSE.iml" filepath="$PROJECT_DIR$/IF ELSE/IF ELSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PREDEFINE FUNCTION PROGRAM/PREDEFINE FUNCTION PROGRAM.iml" filepath="$PROJECT_DIR$/PREDEFINE FUNCTION PROGRAM/PREDEFINE FUNCTION PROGRAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRINGS/STRINGS.iml" filepath="$PROJECT_DIR$/STRINGS/STRINGS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWITCH CASE/SWITCH CASE.iml" filepath="$PROJECT_DIR$/SWITCH CASE/SWITCH CASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Variables/Static Variables.iml" filepath="$PROJECT_DIR$/Static Variables/Static Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task/Task.iml" filepath="$PROJECT_DIR$/Task/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WHILE LOOP/WHILE LOOP.iml" filepath="$PROJECT_DIR$/WHILE LOOP/WHILE LOOP.iml" />
+    </modules>
+  </component>
+</project>
